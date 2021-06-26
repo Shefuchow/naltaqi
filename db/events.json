@@ -1,0 +1,16 @@
+[ 
+    { 
+    "title": "Basketball game", 
+    "time" : "June 21st, 7:00pm", 
+    "description" : "6vs6 basketball game", 
+    "image" : "./img/basketball.png", 
+    "location" : "YMCA" 
+    },
+    {
+    "title": "Coding Hackathon", 
+    "time" : "September 21st, 10:00am", 
+    "description" : "Coding hackathon that will be started on the 21st and end on the 25th", 
+    "image" : "./img/coding.png", 
+    "location" : "Will be held online via zoom" 
+    } 
+]

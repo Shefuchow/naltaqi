@@ -14,14 +14,37 @@ export class QuranStudiesComponent {
   cards = [];
   cardsForHandset = [
     {
-      "title": "Basketball game",
-      "time" : "June 21st, 7:00pm",
-      "description" : "6vs6 basketball game",
-      "imageName" : "basketball",
-      "location" : "YMCA",
-            "cols": 4,
+      "title": "Mohammed Osman",
+      "time" : "November 12th, 6:00am",
+        "description" : "Do not bring any rowdy kids! We want to keep things civil amongst the kids!",
+        "imageName" : "qurantutors",
+        "location" : "Lake Merritt Park, Oakland, California",
+        "contact" : "lakeYouthGroup@gmail.com"  ,
+              "cols": 4,
         "rows": 1
-  }
+    },
+
+    {
+      "title": "Abdurrahman Musa",
+      "time" : "February 10th, 9:00am",
+        "description" : "Local meetup, please email for more information",
+        "imageName" : "studygroup",
+        "location" : "Will be held online via zoom",
+        "contact" : "youthEmailSetting@gmail.com"  ,
+              "cols": 4,
+        "rows": 1
+    },
+
+    {
+      "title": "Lena Fuhar",
+      "time" : "December 10th, 9:00am",
+        "description" : "Email for more information",
+        "imageName" : "halaqa",
+        "location" : "Will be held online via zoom",
+        "contact" : "EmailInformationGroup@gmail.com" ,
+              "cols": 4,
+        "rows": 1
+    }
   ];
 
 

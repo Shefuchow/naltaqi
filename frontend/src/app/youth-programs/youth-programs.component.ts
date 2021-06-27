@@ -174,17 +174,6 @@ export class YouthProgramsComponent {
 
   {
       "title": "Youth Group Team",
-      "time" : "January 6th, 7:00pm",
-      "description" : "Kids meetup",
-      "imageName" : "tutoring",
-      "location" : "Parkway, San Jose",
-      "contact" : "parkwayGroup@yahoo.com"  ,
-            "cols": 1,
-      "rows": 1
-  },
-
-  {
-      "title": "Third Youth Group",
       "time" : "November 12th, 6:00am",
       "description" : "Do not bring any rowdy kids! We want to keep things civil amongst the kids!",
       "imageName" : "soccer",

@@ -250,6 +250,43 @@ export class HalaqasComponent {
   "contact" : "Section104Meeting@gmail.com"   ,
       "cols": 1,
     "rows": 1
+},
+{
+  "title": "Community Center 101",
+  "time" : " Saturday 5am",
+  "description": "Fajr Prayer with fellow Muslims now that covid 19 has a lesser effect on the population",
+  "imageName": "studygroup",
+  "location" : "Islamic Center Way",
+  "virtual" : "true",
+  "where" : "email us for zoom link!",
+  "contact" : "emailus@yahoo.com"   ,
+      "cols": 4,
+    "rows": 1
+},
+
+{
+  "title": "Masjid Weekly Meeting",
+  "time" : " Monday 10pm",
+  "description": "Talk with fellow members",
+  "imageName": "team",
+  "location" : "Institute for Islam Center",
+  "virtual" : "true",
+  "where" : "email us for zoom link!",
+  "contact" : "InstituteGeneral@gmail.com"   ,
+      "cols": 4,
+    "rows": 1
+},
+{
+  "title": "Community Center of the Bay Area",
+  "time" : " Saturday 5am",
+  "description": "Fajr Prayer with fellow Muslims now that covid 19 has a lesser effect on the population",
+  "imageName": "studygroup",
+  "location" : "Islamic Center Way",
+  "virtual" : "true",
+  "where" : "email us for zoom link!",
+  "contact" : "emailus@yahoo.com"   ,
+      "cols": 1,
+    "rows": 1
 }
   ];
 

@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Volunteer Committee", 
+        "time" : "November 11th, 9:00am", 
+        "description" : "Will be picking up trash in the community", 
+        "image" : "",
+        "location" : "Will meet in the parking lot of Masjid Noor",
+        "contact" : "volunteerEmailSetting@gmail.com"  
+    },
+
+    {
+        "title": "Committee for Volunteering", 
+        "time" : "February 10th, 9:00am", 
+        "description" : "Local meetup, please email for more information", 
+        "image" : "",
+        "location" : "Will be held online via zoom",
+        "contact" : "youthEmailSetting@gmail.com"  
+    },
+    
+    {
+        "title": "Group Center for Volunteers", 
+        "time" : "February 19th, 10:00am", 
+        "description" : "Please email for more information", 
+        "image" : "",
+        "location" : "42 Avenue, West Florida",
+        "contact" : "youthEmailSetting@gmail.com"  
+    },
+
+    {
+        "title": "Volunteer Career", 
+        "time" : "January 10th, 9:00am", 
+        "description" : "Cooking food for homeless shelter downtown", 
+        "image" : "",
+        "location" : "The Hot Spot 9150 California",
+        "contact" : "hotspotshelter@gmail.com"  
+    },
+
+    {
+        "title": "Puppy and kitten rescue", 
+        "time" : "September 12th, 5:00pm", 
+        "description" : "Local meetup, please email for more information", 
+        "image" : "",
+        "location" : "Kittens 4 U, West Blvd Sacramento, California",
+        "contact" : "kittenshelter@gmail.com"  
+    },
+
+    {
+        "title": "Massage for the elderly", 
+        "time" : "December 12th, 9:00am", 
+        "description" : "Local meetup, please email for more information", 
+        "image" : "",
+        "location" : "Will be held online via zoom",
+        "contact" : "youthEmailSetting@gmail.com"  
+    },
+
+    {
+        "title": "Group Center for Youths", 
+        "time" : "February 10th, 9:00am", 
+        "description" : "Helping the elderly in elderly homes with mobility", 
+        "image" : "",
+        "location" : "Fair Oaks Retirement Center, East Sacramento",
+        "contact" : "youthEmailSetting@gmail.com"  
+    },
+
+    {
+        "title": "Help Wanted!", 
+        "time" : "June 10th, 9:00am", 
+        "description" : "Local meetup, please email for more information", 
+        "image" : "",
+        "location" : "Will be held online via zoom",
+        "contact" : "Volunteer4usPls@gmail.com"  
+    },
+
+    {
+        "title": "Community Giveback", 
+        "time" : "November 10th, 9:00am", 
+        "description" : "Will be giving out food and water to those in need", 
+        "image" : "",
+        "location" : "In the lower metropolis area",
+        "contact" : "555-555-5555"  
+    }
+
+]

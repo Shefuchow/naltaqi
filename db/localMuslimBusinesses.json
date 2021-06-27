@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Mohammad's Market", 
+        "time" : "November 11th, 9:00am", 
+        "description" : "I sell a variety of fruits and vegetables, please stop by!", 
+        "image" : "",
+        "location" : "Next to Masjid Noor",
+        "contact" : "mosmarket@gmail.com"  
+    },
+
+    {
+        "title": "Hijab Selling", 
+        "time" : "February 10th, 9:00am", 
+        "description" : "Selling handmade hijabs from my garage! Stop by", 
+        "image" : "",
+        "location" : "5115 Willow Way, California",
+        "contact" : "555-555-5555"  
+    },
+    
+    {
+        "title": "Sefath Programming Class", 
+        "time" : "January 19th, 10:00am", 
+        "description" : "Stop by for paid programming lessons and tips", 
+        "image" : "",
+        "location" : "42 Avenue, West Florida",
+        "contact" : "programming4sefath@gmail.com"  
+    },
+
+    {
+        "title": "Improve Your Career", 
+        "time" : "September 15th, 11:00am", 
+        "description" : "Helping with resumes and interview tips", 
+        "image" : "",
+        "location" : "Section 24, San Francisco California",
+        "contact" : "ImproveCareer@yahoo.com"  
+    },
+
+    {
+        "title": "Puppies 4 sale", 
+        "time" : "September 18th, 5:00pm", 
+        "description" : "Local meetup, please email for more information", 
+        "image" : "",
+        "location" : "Kittens 4 U, West Blvd Sacramento, California",
+        "contact" : "kittenshelter@gmail.com"  
+    },
+
+    {
+        "title": "Professional massage parlor", 
+        "time" : "December 12th, 9:00am", 
+        "description" : "We do hour long massages for a good deal!", 
+        "image" : "",
+        "location" : "Parlor Suite 2, Ohio",
+        "contact" : "massaging@gmail.com"  
+    },
+
+    {
+        "title": "Children Supervision", 
+        "time" : "February 10th, 9:00am", 
+        "description" : "I can watch over your kids as a daycare", 
+        "image" : "",
+        "location" : "Fair Oaks Center, East Sacramento",
+        "contact" : "daycare12@gmail.com"  
+    },
+
+    {
+        "title": "Help Needed?", 
+        "time" : "June 10th, 9:00am", 
+        "description" : "I can meetup for any manual labor, please email me for jobs!", 
+        "image" : "",
+        "location" : "Can meet up anywhere",
+        "contact" : "PaidHelp@gmail.com"  
+    },
+
+    {
+        "title": "Forex Trading Help", 
+        "time" : "November 10th, 9:00am", 
+        "description" : "Will be giving out lesson on Forex", 
+        "image" : "",
+        "location" : "Suite 12, Sacramento California",
+        "contact" : "forexhelp@gmail.com"  
+    }
+
+]

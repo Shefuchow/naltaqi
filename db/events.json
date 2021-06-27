@@ -1,16 +1,73 @@
 [ 
     { 
-    "title": "Basketball game", 
-    "time" : "June 21st, 7:00pm", 
-    "description" : "6vs6 basketball game", 
-    "image" : "./img/basketball.png", 
-    "location" : "YMCA" 
-    },
+        "title": "Basketball game", 
+        "time" : "June 21st, 7:00pm", 
+        "description" : "6vs6 basketball game", 
+        "image" : "and image path from a folder please", 
+        "location" : "YMCA" 
+    }, 
+        
     {
-    "title": "Coding Hackathon", 
-    "time" : "September 21st, 10:00am", 
-    "description" : "Coding hackathon that will be started on the 21st and end on the 25th", 
-    "image" : "./img/coding.png", 
-    "location" : "Will be held online via zoom" 
-    } 
+        "title": "Coding Hackathon", 
+        "time" : "September 21st, 10:00am", 
+        "description" : "Coding hackathon that will be started on the 21st and end on the 25th", 
+        "image" : "",
+        "location" : "Will be held online via zoom" 
+    },  
+
+    {
+        "title": "Soccer game", 
+        "time" : "September 10st, 10:00am", 
+        "description" : "Will be a 10vs10 game, we will keep it civil and have a good time", 
+        "image" : "",
+        "location" : "The soccer field in the back of the masjid at Fair Oaks Drive" 
+    },
+
+    {
+        "title": "July 4th get together", 
+        "time" : "July 4th, 10:00am", 
+        "description" : "Will be having a halal get together for July 4th, we will have hotdogs and fireworks for the friends and family", 
+        "image" : "",
+        "location" : "In the back of Ahmad's house" 
+    },
+
+    {
+        "title": "Movie Watching", 
+        "time" : "October 21st, 9:00pm", 
+        "description" : "We will host a movie watching online via zoom, we can have a vote for the movie in the comments", 
+        "image" : "",
+        "location" : "Will be held online via zoom" 
+    },
+
+    {
+        "title": "Halal Music Festival", 
+        "time" : "February 7th, 5:00pm", 
+        "description" : "We can have a fun time hanging out with each other!", 
+        "image" : "",
+        "location" : "Fake Coachella Valley" 
+    },
+
+    {
+        "title": "National Park Hike", 
+        "time" : "October 9th, 8:00pm", 
+        "description" : "An hour long hike with friends", 
+        "image" : "",
+        "location" : "Yosemite National Park barracks 4" 
+    },
+
+    {
+        "title": "Study group", 
+        "time" : "June 25th, 7:00pm", 
+        "description" : "Computer programming group to talk amongst other people", 
+        "image" : "",
+        "location" : "Will be held online via zoom" 
+    },
+
+    {
+        "title": "Video gaming session", 
+        "time" : "December 21st, 3:00pm", 
+        "description" : "Online games with friends, could be a range of titles", 
+        "image" : "",
+        "location" : "We will be on discord to talk with each other and play" 
+    }
 ]

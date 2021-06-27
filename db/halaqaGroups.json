@@ -1,0 +1,102 @@
+[ 
+    { 
+        "title": "Masjid Community Talk",
+        "time" : "Thursdays 7pm",
+        "description": "Islamic talk with fellow Muslims",
+        "image": "",
+        "location" : "San Fransisco islamic Center",
+        "virtual" : "true", 
+        "where" : "email us for zoom link!", 
+        "contact" :"sfmasjid@gmail.com"
+    }, 
+    
+    { 
+        "title": "Masjid Meetup",
+        "time" : " Thursdays 10pm", 
+        "description": "Talk with fellow members",
+        "image": "",
+        "location" : "San Fransisco islamic Center",
+        "virtual" : "false", 
+        "where" : "347 Bayarea st, sf, 11234", 
+        "contact" : "sfmasjid@gmail.com"   
+    },
+
+    {
+        "title": "Masjid Weekly Meeting",
+        "time" : " Monday 10pm", 
+        "description": "Talk with fellow members",
+        "image": "",
+        "location" : "Canada islamic Center",
+        "virtual" : "true", 
+        "where" : "email us for zoom link!", 
+        "contact" : "bestmasjid@gmail.com"   
+    },
+    
+    {
+        "title": "Commmunity Meeting",
+        "time" : " Tuesday 10pm", 
+        "description": "Friendly talk with new people",
+        "image": "",
+        "location" : "US islamic Center",
+        "virtual" : "true", 
+        "where" : "email us for zoom link!", 
+        "contact" : "USAmasjid@gmail.com"   
+    },
+
+    {
+        "title": "Community Center Club",
+        "time" : " January 10pm", 
+        "description": "Get to talk with fellow members about updates int he community and things to do in the area",
+        "image": "",
+        "location" : "Group community center",
+        "virtual" : "false", 
+        "where" : "545 Juniper way, California", 
+        "contact" : "junipterMasjid@gmail.com"   
+    },
+
+    {
+        "title": "Community Center 101",
+        "time" : " Saturday 5am", 
+        "description": "Fajr Prayer with fellow Muslims now that covid 19 has a lesser effect on the population",
+        "image": "",
+        "location" : "Islamic Center Way",
+        "virtual" : "true", 
+        "where" : "email us for zoom link!", 
+        "contact" : "emailus@yahoo.com"   
+    },
+
+    {
+        "title": "Masjid Weekly Meeting",
+        "time" : " Monday 10pm", 
+        "description": "Talk with fellow members",
+        "image": "",
+        "location" : "Institute for Islam Center",
+        "virtual" : "true", 
+        "where" : "email us for zoom link!", 
+        "contact" : "InstituteGeneral@gmail.com"   
+    },
+
+    {
+        "title": "Center for talking",
+        "time" : "Thursday 10pm", 
+        "description": "Meeeting with fellow comrads",
+        "image": "",
+        "location" : "Insitute islamic Center",
+        "virtual" : "true", 
+        "where" : "email us for zoom link!", 
+        "contact" : "InstituteEmail@gmail.com"   
+    },
+
+    {
+        "title": "Group session",
+        "time" : " Friday 10pm", 
+        "description": "Have intellectual talks with our team and discuss",
+        "image": "",
+        "location" : "Group meeting section 104",
+        "virtual" : "false", 
+        "where" : "Section 104. San Jose, California", 
+        "contact" : "Section104Meeting@gmail.com"   
+    }
+    
+]
+    

@@ -5,6 +5,7 @@ import { ContactComponent } from './contact/contact.component';
 import { EventsComponent } from './events/events.component';
 import { HalaqasComponent } from './halaqas/halaqas.component';
 import { OrganizerResourcesComponent } from './organizer-resources/organizer-resources.component';
+import { QuranStudiesComponent } from './quran-studies/quran-studies.component';
 import { SearchComponent } from './search/search.component';
 import { VolunteeringComponent } from './volunteering/volunteering.component';
 import { YouthProgramsComponent } from './youth-programs/youth-programs.component';
@@ -17,6 +18,7 @@ const routes: Routes = [
    { path : 'halaqas', component: HalaqasComponent },
    { path : 'youth-programs', component: YouthProgramsComponent },
    { path : 'volunteering', component: VolunteeringComponent },
+   { path : 'quran-studies', component: QuranStudiesComponent },
    { path : 'organizer-resources', component: OrganizerResourcesComponent },
    { path : 'contact', component: ContactComponent }
 ];

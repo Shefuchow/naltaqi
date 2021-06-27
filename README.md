@@ -1,6 +1,7 @@
 # Platform for Muslim Youth!
 HalalHacks Web App to connect young muslims to their community, and enable them with learning, growing, social and volunteering opportunities  
 
+Live at: 
 
 <!-- To Do: Update this link -->
 > [Devpost Submission](https://devpost.com/software/student-assistant) 

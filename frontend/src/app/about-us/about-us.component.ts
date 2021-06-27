@@ -13,6 +13,12 @@ export class AboutUsComponent {
   cards = [];
   cardsForHandset = [
     {
+      "imageName": "logo",
+      "title": "We developed a platform for Muslim youth to connect to their community!",
+      "cols": 4,
+      "rows": 1
+    },
+    {
       "imageName": "event",
       "title": "Search events to go to and have fun",
       "cols": 4,

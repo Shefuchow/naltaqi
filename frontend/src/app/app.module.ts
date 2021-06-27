@@ -17,12 +17,29 @@ import { MatCardModule } from '@angular/material/card';
 import { MatMenuModule } from '@angular/material/menu';
 import { MatSlideToggleModule } from '@angular/material/slide-toggle';
 import { FormsModule } from '@angular/forms';
+import { EventsComponent } from './events/events.component';
+import { HalaqasComponent } from './halaqas/halaqas.component';
+import { YouthProgramsComponent } from './youth-programs/youth-programs.component';
+import { VolunteeringComponent } from './volunteering/volunteering.component';
+import { QuranStudiesComponent } from './quran-studies/quran-studies.component';
+import { OrganizerResourcesComponent } from './organizer-resources/organizer-resources.component';
+import { ContactComponent } from './contact/contact.component';
+import { SearchComponent } from './search/search.component';
+
 
 @NgModule({
   declarations: [
     AppComponent,
     NavComponent,
-    AboutUsComponent
+    AboutUsComponent,
+    EventsComponent,
+    HalaqasComponent,
+    YouthProgramsComponent,
+    VolunteeringComponent,
+    QuranStudiesComponent,
+    OrganizerResourcesComponent,
+    ContactComponent,
+    SearchComponent
   ],
   imports: [
     BrowserModule,
@@ -39,7 +56,7 @@ import { FormsModule } from '@angular/forms';
     MatMenuModule,
     MatSlideToggleModule,
     FormsModule
-  ],
+],
   providers: [],
   bootstrap: [AppComponent]
 })

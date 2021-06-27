@@ -1,0 +1,58 @@
+.grid-container {
+  margin: 20px;
+}
+
+.dashboard-card {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  border-radius: 5px;
+}
+
+.dashboard-card-content {
+  text-align: center;
+
+}
+
+.card-image{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.card-title{
+  padding: 10px 30px 0 0;
+  border-radius: 6px;
+  position: relative;
+}
+
+.frost-glass:before {
+  position: absolute;
+  content: '';
+  left: 0;
+  top: 0;
+  height:100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  filter: blur(35px);
+
+}
+
+.frosted-glass {
+  content: '';
+  box-shadow: inset 0 0 0 200px rgba(255,255,255,0.05);
+  background: rgba(255, 255, 255, 0.808);
+  box-sizing: border-box;
+  margin: 5px 0 0 0;
+  padding: 10px 10px 0 10px;
+  box-shadow: 0 0 15px 5px rgba(108, 82, 221, 0.15);
+  border-radius: 10px;
+  position: relative;
+  color: indigo;
+  overflow: hidden;
+}

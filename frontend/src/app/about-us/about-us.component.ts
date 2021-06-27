@@ -15,38 +15,38 @@ export class AboutUsComponent {
     {
       "imageName": "event",
       "title": "Search events to go to and have fun",
-      "cols": 2,
+      "cols": 4,
       "rows": 1
   },
   {
       "imageName": "halaqa",
       "title": "Meet for the sake of Allah to become 1% better muslims",
-      "cols": 2,
+      "cols": 4,
       "rows": 1
   },
   {
       "imageName": "youth",
       "title": "Learn and socialize in Youth Programs at the masjid",
-      "cols": 2,
+      "cols": 4,
       "rows": 1
   },
   {
       "imageName": "volunteering",
       "title": "Volunteer for the sake of Allah",
-      "cols": 2,
+      "cols": 4,
       "rows": 1
   }
   ,
   {
       "imageName": "qurantutors",
       "title": "Learn our holy quran from local quran teachers",
-      "cols": 2,
+      "cols": 4,
       "rows": 1
   },
   {
       "imageName": "muslimbusiness",
       "title": "Shop at local muslim business to support the community!",
-      "cols": 2,
+      "cols": 4,
       "rows": 1
   }
   ];

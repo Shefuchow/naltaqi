@@ -4,14 +4,13 @@ import { Breakpoints, BreakpointObserver } from '@angular/cdk/layout';
 import { Observable } from 'rxjs/internal/Observable';
 
 @Component({
-  selector: 'app-search',
-  templateUrl: './search.component.html',
-  styleUrls: ['./search.component.css']
+  selector: 'app-events',
+  templateUrl: './events.component.html',
+  styleUrls: ['./events.component.css']
 })
 
-export class SearchComponent {
+export class searchComponent {
   /** Based on the screen size, switch from standard to one column per row */
-  public search:boolean = false;
   cards = [];
   cardsForHandset = [
     {
@@ -194,6 +193,15 @@ export class SearchComponent {
         "rows": 1
   },
 
+  {
+      "title": "July 4th get together",
+      "time" : "July 4th, 10:00am",
+      "description" : "Will be having a halal get together for July 4th, we will have hotdogs and fireworks for the friends and family",
+      "imageName" : "event",
+      "location" : "In the back of Ahmad's house" ,
+            "cols": 1,
+        "rows": 1
+  },
 
 {
   "title": "Painting Class",
@@ -215,6 +223,17 @@ export class SearchComponent {
   },
 
   {
+      "title": "Halal Music Festival",
+      "time" : "February 7th, 5:00pm",
+      "description" : "We can have a fun time hanging out with each other!",
+      "imageName" : "event",
+      "location" : "Fake Coachella Valley" ,
+            "cols": 1,
+        "rows": 1
+  },
+
+
+  {
       "title": "National Park Hike",
       "time" : "October 9th, 8:00pm",
       "description" : "An hour long hike with friends",
@@ -232,7 +251,26 @@ export class SearchComponent {
       "location" : "Will be held online via zoom" ,
             "cols": 1,
         "rows": 1
-  }
+  },
+
+  {
+      "title": "Video gaming session",
+      "time" : "December 21st, 3:00pm",
+      "description" : "Online games with friends, could be a range of titles",
+      "imageName" : "videogame",
+      "location" : "We will be on discord to talk with each other and play" ,
+            "cols": 1,
+        "rows": 1
+  },
+  {
+    "title": "Girls night as the masjid",
+    "time" : "July 4th, 10:00am",
+    "description" : "Will be having a halal get together for July 4th, we will have hotdogs and fireworks for the friends and family",
+    "imageName" : "event",
+    "location" : "In the back of Ahmad's house" ,
+          "cols": 1,
+      "rows": 1
+}
   ];
 
   /*      E X A M P L E  C A R D  A R R A Y

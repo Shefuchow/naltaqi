@@ -24,7 +24,6 @@ import { VolunteeringComponent } from './volunteering/volunteering.component';
 import { QuranStudiesComponent } from './quran-studies/quran-studies.component';
 import { OrganizerResourcesComponent } from './organizer-resources/organizer-resources.component';
 import { ContactComponent } from './contact/contact.component';
-import { SearchComponent } from './search/search.component';
 
 
 @NgModule({
@@ -38,9 +37,7 @@ import { SearchComponent } from './search/search.component';
     VolunteeringComponent,
     QuranStudiesComponent,
     OrganizerResourcesComponent,
-    ContactComponent,
-    SearchComponent
-  ],
+    ContactComponent  ],
   imports: [
     BrowserModule,
     AppRoutingModule,

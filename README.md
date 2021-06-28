@@ -4,12 +4,15 @@ HalalHacks Web App to connect young muslims to their community, and enable them 
 <!-- Need to run ng build --prod --baseHref="https://shefuchow.github.io/naltaqi/" to update deployment -->
 > [Web App now live, click here for demo](https://shefuchow.github.io/naltaqi/) 
 
-<!-- To Do: Update this link -->
-> [Devpost Submission](https://devpost.com/software/student-assistant) 
+![Demo](img/demo.gif)
 
 <!-- To Do: Update this link -->
-> [HalalHacks Presenation Slides](https://docs.google.com/presentation/d/1f24VxMZioN5OgRS9cE51gqlGWiWzWjhj-JPLA8d8mBw/edit?usp=sharing)
+> [Devpost Submission](https://devpost.com/software/naltaqi?ref_content=my-projects-tab&ref_feature=my_projects) 
 
+<!-- To Do: Update this link -->
+> [HalalHacks Presenation Slides](https://drive.google.com/file/d/1ZSgBUYeO3xQtc_aKvF1jE-BpGWxIf4rk/view?usp=sharing)
+
+> [Initial UX sketch made by our UX designer](https://devpost.com/software/naltaqi?ref_content=my-projects-tab&ref_feature=my_projects) 
 
 
 <details><summary>._.</summary>
